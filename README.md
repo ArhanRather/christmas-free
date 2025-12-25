@@ -12,7 +12,7 @@ Background music usage
 - Note: Browsers typically block autoplay; music will start after a user gesture if enabled.
 
 Credits & License
-- This project is licensed under the ISC License (see `LICENSE`).
+- This project is licensed under the ISC License (see `haris`).
 - Please credit the project author when reusing or remixing this site. If this project or its assets are used publicly without credit, the author reserves the right to pursue copyright remedies.
 
 If you want, I can add a bundled sample MP3 (CC0) or wire up an external free track — tell me which option you prefer.
